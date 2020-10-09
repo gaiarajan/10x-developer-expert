@@ -13,7 +13,7 @@ Part 3: Building Diverse Cyberfutures
 
 If you're a developer, or connected at all to the software community, chances are you've heard of the *[10x developer](https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101?gi=292c35358684)*— a mythical unicorn developer who achieves perfect productivity and flawless code, all in half the record time. He (and he's *usually* a he) is a paragon of expertise. He's the subject of an entire mythology. He also doesn't exist.
 
-In this part of a three-part series, I'll be unpacking the role of the mythology of "expertise," its effects, and what it means for open source culture. Let's begin. First, a definition: when I speak of 'mythology,' I don't mean that the "expert" is a myth (though he does sometimes seem magical!). I am speaking of the culture and aura that surrounds the expert and gives him a position of power within the culture. 
+In this part of a three-part series, I'll be unpacking the role of the mythology of "expertise," its effects, and what it means for open source culture. Let's begin. First, a definition: when I speak of 'mythology,' I don't mean that the "expert" is a myth (though he does sometimes seem magical!). I am speaking of the culture and aura that surrounds the expert and gives him a position of power. 
 
 In this series, I'll posit that **expertise is less a meritocracy and more a social category**. Therefore, the socialization of certain groups primes them to inhabit the role of expert, and replicates itself within teams, online environments, and movements[1]. "Experts" who fit the social category and are able to adequately perform then rise to prominence, and are rewarded with confirmation of their expertise by the group. 
 
