@@ -1,3 +1,14 @@
+# The Mythology of the Expert
+
+The inclusion gap impacts [which algorithms we build](https://github.com/daviddao/awful-ai), [how they're used](https://points.datasociety.net/dont-call-ai-magic-142da16db408), and [how they affect user communities](https://www.triple-c.at/index.php/tripleC/article/view/439/641). It dictates [what training data is used](https://twitter.com/ylecun/status/1274782757907030016?s=20), and [how](https://xkcd.com/1838/). It asserts itself in [every facet of UX](https://uxdesign.cc/diversity-and-inclusion-are-critical-in-design-60fc4a5abb4a?gi=4a084f5c38d5). Though it's too often essentialized to "*more girls in STEM*," further exploration of this issue reveals it as stark, pervasive, and deserving of far more nuance and sincere action. 
+
+In this post, I will interrogate one facet of development culture that I believe contributes to the inclusion gap. This post will be a three-segment exploration into the mythology of the expert, its philosophical grounding, and its effects. It will use concepts from critical theory, machine learning fairness, and other fields, and I will do my best to fill in context and add further resources wherever possible.
+
+**Contents**:
+Part 1: Introducing the Mythology
+Part 2: Machines, Magic, and Messaging 
+Part 3: Building Diverse Cyberfutures
+
 ## Part 1: Introducing the Mythology
 
 If you're a developer, or connected at all to the software community, chances are you've heard of the *[10x developer](https://blog.codegiant.io/how-to-become-a-10x-engineer-492fa3f57101?gi=292c35358684)*— a mythical unicorn developer who achieves perfect productivity and flawless code, all in half the record time. He (and he's *usually* a he) is a paragon of expertise. He's the subject of an entire mythology. He also doesn't exist.
