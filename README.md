@@ -4,10 +4,10 @@ The inclusion gap impacts [which algorithms we build](https://github.com/davidda
 
 In this post, I will interrogate one facet of development culture that I believe contributes to the inclusion gap. This post will be a three-segment exploration into the mythology of the expert, its philosophical grounding, and its effects. It will use concepts from critical theory, machine learning fairness, and other fields, and I will do my best to fill in context and add further resources wherever possible.
 
-**Contents**:\n
-Part 1: Introducing the Mythology \n
-Part 2: Machines, Magic, and Messaging \n
-Part 3: Building Diverse Cyberfutures\n
+**Contents**:   
+Part 1: Introducing the Mythology      
+Part 2: Machines, Magic, and Messaging  
+Part 3: Building Diverse Cyberfutures    
 
 ## Part 1: Introducing the Mythology
 
