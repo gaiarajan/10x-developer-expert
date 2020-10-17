@@ -27,6 +27,22 @@ I will also extend this to apply to machines. By prizing lack of cooperation and
 
 In Part 2, we'll be delving deeper into the mythology of the expert and exploring ways to dismantle this structure for greater inclusion and a healthier community. 
 
+## Part 2: Machines, Magic, and Messaging
+
+For many other fields, expertise can be confirmed through board exams, a plethora of tests, and official approval. In contrast, open-source prides itself on being available to all, eschewing official identifiers of skill in favor of community vetting. In theory, this should lead to a more inclusive development environment. So [why is the open-source inclusion gap usually even greater than the corresponding gap in the workforce](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)? 
+
+The mythology of expertise is one important reason. Though cishet white men are often encouraged to inhabit the role of 'expert', marginalized people are subjected to a sort of enforced uncertainty. Women [have been shown to perform uncertainty](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/) even when sure, meaning that, even when completely qualified, they may be less comfortable reaching out to strangers or correcting those who identify as experts. These two skills are integral to open-source contributions.
+
+So how do we democratize expertise? How do we encourage marginalized people (who may not have been socialized to inhabit this category) to see themselves as capable?
+
+First, **make sure programs for career development for marginalized people do not only include skill development.** [Studies have shown](https://journals.sagepub.com/doi/abs/10.1177/105268461102100405) that educators and mentors may possess the skills to merit "expertise," but if they suffer from impostor syndrome or don't accept a position of relational authority, they may pass these issues on to their students. Mentorship from marginalized educators who've worked through the barriers of expertise can help aspiring professionals enter the world of development easier. 
+
+Second, **allow for uncertainty. Celebrate mistakes.** It may be tempting to value "progress" above else, especially when working with strangers. But moving away from the stereotypical traits of an expert— brashness, certainty— will allow more perspectives into our work and foster a truly open open-source movement.
+
+And third, **be aware of these systemic inequities.** Work to make projects and teams welcoming to qualified contributors, and realize that the mythology of expertise is a pervasive problem *everywhere.* 
+
+In Part 3, we'll be going into the specifics of possible steps forward, and talking about cool research being done into this topic right now.
+
 1. [https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/sociologicalphilosophical-perspective-on-expertise-the-acquisition-of-expertise-through-socialization/282E283535B03CCC7147D6CBEE937590](https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/sociologicalphilosophical-perspective-on-expertise-the-acquisition-of-expertise-through-socialization/282E283535B03CCC7147D6CBEE937590)
 2. [https://link.springer.com/chapter/10.1007/978-3-319-39225-7_13](https://link.springer.com/chapter/10.1007/978-3-319-39225-7_13) 
 3. [https://books.google.com/books/about/Artificial_Knowing.html?id=IVLmW1C7oGEC](https://books.google.com/books/about/Artificial_Knowing.html?id=IVLmW1C7oGEC) 
