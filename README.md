@@ -7,7 +7,6 @@ In this post, I will interrogate one facet of development culture that I believe
 **Contents**:   
 Part 1: Introducing the Mythology      
 Part 2: Machines, Magic, and Messaging  
-Part 3: Building Diverse Cyberfutures    
 
 ## Part 1: Introducing the Mythology
 
@@ -16,6 +15,7 @@ If you're a developer, or connected at all to the software community, chances ar
 In this part of a three-part series, I'll be unpacking the role of the mythology of "expertise," its effects, and what it means for open source culture. Let's begin. First, a definition: when I speak of 'mythology,' I don't mean that the "expert" is a myth (though he does sometimes seem magical!). I am speaking of the culture and aura that surrounds the expert and gives him a position of power. 
 
 In this series, I'll posit that **expertise is less a meritocracy and more a social category**. Therefore, the socialization of certain groups primes them to inhabit the role of expert, and replicates itself within teams, online environments, and movements[1]. "Experts" who fit the social category and are able to adequately perform then rise to prominence, and are rewarded with confirmation of their expertise by the group. 
+
 
 In open-source movements, this presents as a hierarchy of users and corresponding contributions. For example, in mostly-volunteer open source projects, studies have shown that women perform mostly non-code contributions, while men contribute primarily with code[2]. This performance of expertise leads marginalized individuals to abdicate their claim to expertise subconsciously. When "expert" is a social shorthand for cisgender, heterosexual white male, it can be difficult for marginalized contributors to assert expertise. 
 
@@ -41,7 +41,7 @@ Second, **allow for uncertainty. Celebrate mistakes.** It may be tempting to val
 
 And third, **be aware of these systemic inequities.** Work to make projects and teams welcoming to qualified contributors, and realize that the mythology of expertise is a pervasive problem *everywhere.* 
 
-In Part 3, we'll be going into the specifics of possible steps forward, and talking about cool research being done into this topic right now.
+The inclusion gap certainly has many contributing factors, but one important one is the distribution of assumed "expertise": implementing these tools, and de-emphasizing expert positionality, can help make our environments more inclusive, rich, and interesting. 
 
 1. [https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/sociologicalphilosophical-perspective-on-expertise-the-acquisition-of-expertise-through-socialization/282E283535B03CCC7147D6CBEE937590](https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/sociologicalphilosophical-perspective-on-expertise-the-acquisition-of-expertise-through-socialization/282E283535B03CCC7147D6CBEE937590)
 2. [https://link.springer.com/chapter/10.1007/978-3-319-39225-7_13](https://link.springer.com/chapter/10.1007/978-3-319-39225-7_13) 
